@@ -1,10 +1,10 @@
-# 🚗 Used Car Price Prediction
+#  Used Car Price Prediction
 
 Machine learning project to predict the market price of used cars for Rusty Bargain. The goal was to develop a model that is not only accurate (minimizing RMSE) but also efficient in terms of training time and prediction speed.
 
 ---
 
-## 📌 Objective
+##  Objective
 
 - Predict car resale value based on historical and technical attributes
 - Compare performance between baseline linear models, decision trees, random forests, and gradient boosting (LightGBM, CatBoost)
@@ -12,7 +12,7 @@ Machine learning project to predict the market price of used cars for Rusty Barg
 
 ---
 
-## 📊 Dataset Description
+##  Dataset Description
 
 - `DateCrawled`: Profile scraped date
 - `VehicleType`: Car body type
@@ -33,7 +33,7 @@ Machine learning project to predict the market price of used cars for Rusty Barg
 
 ---
 
-## 🧪 Models Compared
+##  Models Compared
 
 1. **Linear Regression** – sanity baseline
 2. **Decision Tree Regressor**
@@ -43,7 +43,7 @@ Machine learning project to predict the market price of used cars for Rusty Barg
 
 ---
 
-## 🧠 Evaluation Metrics
+##  Evaluation Metrics
 
 - **Root Mean Squared Error (RMSE)** – Main metric
 - **Training Time**
@@ -51,7 +51,7 @@ Machine learning project to predict the market price of used cars for Rusty Barg
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 
 - Random Forest and CatBoost yielded the best balance between accuracy and prediction speed
 - Linear Regression was the slowest and least accurate (as expected)
@@ -60,7 +60,7 @@ Machine learning project to predict the market price of used cars for Rusty Barg
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 used-car-price-prediction/
@@ -73,7 +73,7 @@ used-car-price-prediction/
 
 ---
 
-## 🛠️ Tools & Libraries Used
+##  Tools & Libraries Used
 
 - Python
 - pandas, numpy
@@ -83,13 +83,13 @@ used-car-price-prediction/
 
 ---
 
-## ✅ Status
+##  Status
 
 ✔️ Project completed as part of the **TripleTen Bootcamp** – Sprint: *Gradient Boosting vs. Forests vs. Linear Regression*
 
 ---
 
-## 📌 Author
+##  Author
 
 David Villanueva  
 [LinkedIn](https://www.linkedin.com/in/david-villanueva-59659727)  
