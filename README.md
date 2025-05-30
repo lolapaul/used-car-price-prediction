@@ -83,12 +83,6 @@ used-car-price-prediction/
 
 ---
 
-##  Status
-
-✔️ Project completed as part of the **TripleTen Bootcamp** – Sprint: *Gradient Boosting vs. Forests vs. Linear Regression*
-
----
-
 ##  Author
 
 David Villanueva  
